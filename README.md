@@ -10,7 +10,7 @@ Desarrollar un microservicio para la tabla empleados capaz de realizar las opera
 2. Una vez ubicado en la raiz del proyecto ejecutar el siguiente comando
 
 ```
-pip install
+pip install -r requirements.txt
 ```
 
 3. Cambiar las credenciales de acceso de la base de datos con su base de datos local
