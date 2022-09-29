@@ -1,6 +1,8 @@
 # test-cobrandoBPO
 Prueba Técnica - Desarrollador Python Backend
 
+Desarrollar un microservicio para la tabla empleados capaz de realizar las operaciones CRUD (Crear, Leer, Actualizar y Borrar), conectado a una base de datos PostgreSQL y por medio del puerto 1234
+
 ## Requisitos de despliegue
  
 1. Descargar o clonar el repositorio en su computador local.
